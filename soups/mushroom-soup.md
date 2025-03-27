@@ -3,7 +3,8 @@
 
 ## Ingredients
 
-- **450g** carrots
+-  **450g** carrots
+- *400g** mushrooms
 - **2 tablespoons** olive oil or unsalted butter
 - **1** medium onion, diced
 - **2** garlic cloves, minced
